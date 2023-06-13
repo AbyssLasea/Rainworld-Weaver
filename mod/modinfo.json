@@ -1,0 +1,9 @@
+﻿{
+	"id": "abysslasea.weaver",
+	"name": "Weaver",
+	"version": "0.0.1",
+	"authors": "AbyssLasea",
+	"description": "LOL.",
+	"requirements": [ "slime-cubed.slugbase" ],
+	"requirements_names": [ "SlugBase" ]
+}
